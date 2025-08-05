@@ -12,6 +12,6 @@ void main() {
   int number_1 = 20;
   int number_2 = 15;
 
-  bool result = check_bool(number_1, number_2);
+  // bool result = check_bool(number_1, number_2);
   print("result: ${result}");
 }
